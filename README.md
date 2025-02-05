@@ -2,7 +2,7 @@ SDE-Intern : Assignment : Bright Money
 # 💳 Bright - AI-driven Credit Card Debt Solution
 
 ## 🚀 Project Overview
-This project is a **responsive fintech webpage** designed for an AI-powered credit card debt solution. Built with **HTML and TailwindCSS **, the page is structured for optimal performance, responsiveness, and search engine discoverability.
+This project is a **responsive fintech webpage** designed for an AI-powered credit card debt solution. Built with **HTML and TailwindCSS**, the page is structured for optimal performance, responsiveness, and search engine discoverability.
 
 ## 🏆 Tasks Completed
 ### ✅ Task 1: Front-End Development
