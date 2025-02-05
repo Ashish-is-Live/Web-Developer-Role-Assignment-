@@ -15,6 +15,9 @@ This project is a **responsive fintech webpage** designed for an AI-powered cred
 - Implemented **JSON-LD schema markup** for improved search visibility.
 - Structured content with proper **heading hierarchy** for better accessibility and SEO.
 - Documented additional **SEO best practices** in a separate file (`SEO_Report.md`).
+  
+  📜 SEO Improvements Report
+For a detailed explanation of additional SEO enhancements, check SEO_Report.md.
 
 ## 📸 Screenshots
 ### Desktop View: desktopView.png
@@ -31,5 +34,7 @@ This project is a **responsive fintech webpage** designed for an AI-powered cred
 - **CSS3 (Tailwind CSS)**
 - **JSON-LD Schema Markup**
 - **SEO Best Practices**
+
+  
 
 
