@@ -6,7 +6,7 @@ This project is a **responsive fintech webpage** designed for an AI-powered cred
 
 ## 🏆 Tasks Completed
 ### ✅ Task 1: Front-End Development
-- Developed a **fully responsive** webpage using HTML, Tailwind CSS, and JavaScript.
+- Developed a **fully responsive** webpage using HTML and Tailwind CSS
 - Ensured adaptability for **desktop, tablet, and mobile** screen sizes.
 
 
