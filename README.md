@@ -17,13 +17,13 @@ This project is a **responsive fintech webpage** designed for an AI-powered cred
 - Documented additional **SEO best practices** in a separate file (`SEO_Report.md`).
 
 ## 📸 Screenshots
-### Desktop View:
+### Desktop View: desktopView.png
 
 
-### Tablet View:
+### Tablet View: tabView.png
 
 
-### Mobile View:
+### Mobile View: mobileView.png
 
 
 ## 🛠️ Technologies Used
