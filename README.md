@@ -62,7 +62,8 @@ Published & Validated setup using GA4 real-time reports.
 
 Tracked Clicks on "Apply Now" Anchor Tag:
 
-**<a href="https://example.com/apply" id="applyNowLink">Apply Now</a>**
+`<a href="https://example.com/apply" id="applyNowLink">Apply Now</a>`
+
 
 Enabled Click Variables in GTM:
 
