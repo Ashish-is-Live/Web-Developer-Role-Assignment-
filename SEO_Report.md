@@ -42,7 +42,7 @@ Added alt attributes to all images for better accessibility and image search ind
 
 Example:
 
-<img src="hero-image.jpg" alt="Bright AI-driven credit card debt solution interface">
+`<img src="hero-image.jpg" alt="Bright AI-driven credit card debt solution interface">`
 
 4️⃣ JSON-LD Schema Markup
 
