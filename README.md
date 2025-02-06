@@ -51,7 +51,7 @@ GTM Code Inserted in <head> and <body> sections of the HTML.
 
 📌 Google Analytics (GA4) Integration
 
-GA4 Measurement ID: G-XXXXXXXXXX added via GTM.
+GA4 Measurement ID: GTM-PV6LKND4 added via GTM.
 
 Configured GA4 Tag to capture basic user metrics and events.
 
@@ -101,7 +101,7 @@ Confirmed that anchor_click event appears in real-time data.
 
 📸 Screenshots (Deliverables)
 
-📌 Attach the following screenshots:
+📌 Attach the following screenshots: All sreenshots are in same repo
 
 GTM Container Overview (showing all tags and triggers).
 
