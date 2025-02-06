@@ -74,7 +74,7 @@ Ensured clear navigation with structured anchor links.
 
 Example:
 
-<a href="#features">Explore Features</a>
+`<a href="#features">Explore Features</a>`
 
 6️⃣ Mobile-Friendliness & Performance
 
