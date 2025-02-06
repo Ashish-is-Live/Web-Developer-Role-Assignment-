@@ -32,6 +32,87 @@ For a detailed explanation of additional SEO enhancements, check SEO_Report.md.
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3 (Tailwind CSS)**
+
+### ✅ Task 3: GTM & GA4 Integration
+
+Google Tag Manager (GTM) Setup
+
+GTM container (GTM-XXXXXXX) created and implemented.
+
+Tracking added for:
+
+Page views
+
+Button clicks
+
+Anchor link clicks (Apply Now)
+
+GTM code inserted into <head> and <body> sections of the HTML.
+
+Google Analytics (GA4) Integration
+
+GA4 Measurement ID: G-XXXXXXXXXX integrated via GTM.
+
+Configured GA4 tag to capture basic user metrics and events.
+
+Published and validated setup using GA4 real-time reports.
+
+Event Tracking Implementation
+
+Tracked clicks on "Apply Now" anchor tag:
+
+<a href="https://example.com/apply" id="applyNowLink">Apply Now</a>
+
+Enabled Click Variables in GTM:
+
+Click Element
+
+Click ID
+
+Click URL
+
+Click Text
+
+GTM Trigger Configuration:
+
+Trigger fires on Click ID contains applyNowLink.
+
+GA4 Event Parameters:
+
+link_text → {{Click Text}}
+
+link_url → {{Click URL}}
+
+GTM Tag Configuration:
+
+Event Name: anchor_click
+
+Trigger: Anchor Click - Apply Now
+
+📜 Testing & Validation
+
+GTM Preview Mode:
+
+Verified that the click event fires correctly upon clicking "Apply Now".
+
+Google Analytics Real-Time Reports:
+
+Confirmed that anchor_click appears in real-time data.
+
+📸 Screenshots (Deliverables)
+
+📌 Attach the following screenshots:
+
+GTM Container Overview (showing all tags and triggers).
+
+Tag Configuration for GA4 Event Tracking.
+
+Real-time Event Tracking in GA4.
+
+🚀 Conclusion
+
+The SEO, GTM, and GA4 setup ensures improved search engine rankings and user behavior tracking. With event tracking enabled, the webpage now provides insights into user engagement and conversions.
+
 - **JSON-LD Schema Markup**
 - **SEO Best Practices**
 
