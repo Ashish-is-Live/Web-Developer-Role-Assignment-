@@ -37,7 +37,7 @@ For a detailed explanation of additional SEO enhancements, check SEO_Report.md.
 
 📌 Google Tag Manager (GTM) Setup
 
-GTM Container Created & Implemented: GTM-XXXXXXX
+GTM Container Created & Implemented: GTM-PV6LKND4
 
 Tracking Configured For:
 
@@ -51,7 +51,7 @@ GTM Code Inserted in <head> and <body> sections of the HTML.
 
 📌 Google Analytics (GA4) Integration
 
-GA4 Measurement ID: GTM-PV6LKND4 added via GTM.
+GA4 Measurement ID: G-H2QTYSJYHZ added via GTM.
 
 Configured GA4 Tag to capture basic user metrics and events.
 
